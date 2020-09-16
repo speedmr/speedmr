@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: SexGenius
+title: 个人博客
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
+author: SexGenius
 language: zh-CN
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
+url: https://speedgod.gitee.io/blog/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
