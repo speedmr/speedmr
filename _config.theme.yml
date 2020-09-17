@@ -78,18 +78,18 @@ footer:
 profile:
   enabled: true # Whether to show profile bar
   avatar: images/avatar.jpg
-  gravatar: MyEmailAddress@example.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
-  author: fengkx
+  gravatar: l.speedmr@gmail.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
+  author: sexgenius
   author_title: Student & Coder
   author_description: Having fun
-  location: Guangzhou, China
+  location: yinchuan, China
   follow: https://github.com/speedmrl
   # Social Links
   social:
     links:
-      github: https://github.com/fengkx
+      github: https://github.com/speedmrl
       telegram: https://t.me/fengkx
-      twitter: https://twitter.com/example
+      twitter: https://twitter.com/talenteros
       # facebook: /
       # dribbble: /
 #      behance: https://www.behance.net/cofess
@@ -98,10 +98,10 @@ profile:
 
   # My Personal Links
   links:
-    Github: https://github.com/fengkx
-    Blog: http://www.fengkx.top
-    Email: i#fengkx.top(请将#替换成@)
-    Wechat: liang222liang
+    Github: https://github.com/speedmrl
+    Blog: https://speedgod.gitee.io/
+    Email: speedgod@aliyun.com
+    Wechat: speedgodwx
   # My Personal Labels
   labels:
     - 前端
@@ -118,7 +118,7 @@ profile:
   works:
    name:
      link: http://www.example.com
-     date: 2016
+     date: 2020
   # My Personal Projects
   projects:
     fengkx/NodeRSSBot: https://github.com/fengkx/NodeRSSBot
