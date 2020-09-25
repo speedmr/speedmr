@@ -5,7 +5,7 @@ menu:
   Categories: categories  # 分类
   Tags: tags  # 标签
   Repository: repository  # github repositories
-#  Books: books  # 豆瓣书单
+  #Books: books  # 豆瓣书单
   Links: links  # 友链
   About: about  # 关于
 
@@ -22,7 +22,7 @@ menu_icons:
   about: icon-cup
 
 site:
-  favicon: /images/favicon.ico
+  favicon: /images/blogger.png
   #manifest:
   site_verification:
 #    google:
@@ -60,7 +60,7 @@ comment:
 
 
 github:
-  username: fengkx
+  username: speedmrl
 
 # wordcount
 postCount:
@@ -71,7 +71,7 @@ postCount:
 search: true # enable local search
 toc: true
 fancybox: true
-license: 'This article is available under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> License'
+license: #'This article is available under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank" rel="noopener noreferrer">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</a> License'
 footer:
 #  custom:
 
@@ -80,26 +80,26 @@ profile:
   avatar: images/avatar.jpg
   gravatar: l.speedmr@gmail.com # Gravatar email address, if you enable Gravatar, your avatar config will be overriden
   author: sexgenius
-  author_title: Student & Coder
-  author_description: Having fun
+  author_title: 
+  author_description: 
   location: yinchuan, China
   follow: https://github.com/speedmrl
   # Social Links
   social:
     links:
       github: https://github.com/speedmrl
-      telegram: https://t.me/fengkx
-      twitter: https://twitter.com/talenteros
-      # facebook: /
+      #telegram: 
+      #twitter: https://twitter.com/talenteros
+      #facebook: https://www.facebook.com/talenteros
       # dribbble: /
-#      behance: https://www.behance.net/cofess
+      #behance: https://www.behance.net/cofess
       rss: atom.xml
     link_tooltip: true # enable the social link tooltip, options: true, false
 
   # My Personal Links
   links:
     Github: https://github.com/speedmrl
-    Blog: https://speedgod.gitee.io/
+    Blog: https://blog.osnx.net
     Email: speedgod@aliyun.com
     Wechat: speedgodwx
   # My Personal Labels
@@ -109,6 +109,9 @@ profile:
     - Golang
     - Linux日常使用
   skills:
+    java: ★★★☆☆
+    PHP: ★★★☆☆
+    python: ★★★☆☆
     Git: ★★★☆☆
     Gulp: ★★★☆☆
     Javascript: ★★★☆☆
@@ -116,14 +119,14 @@ profile:
     Bootstrap: ★★★☆☆
    # My Personal Works
   works:
-   name:
-     link: http://www.example.com
-     date: 2020
+   宁夏软件:
+     link: http://www.osnx.net
+     date: 2016
   # My Personal Projects
   projects:
-    fengkx/NodeRSSBot: https://github.com/fengkx/NodeRSSBot
-    fengkx/translator: https://github.com/fengkx/translator
-    fengkx/cacheman-level: https://github.com/fengkx/cacheman-level
+    blog: https://github.com/speedmr.github.io/
+    PHPHUB: https://github.com/speedmrl/phphub
+    #fengkx/cacheman-level: https://github.com/speedmrl/IBMYes
 
 
 widgets:
